@@ -1,0 +1,26 @@
+body{
+    background-color:violet;
+    scroll-behavior: smooth;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+ ul{
+    list-style: none;
+}
+nav h2{
+    text-align: center;
+    font-size: 50px;}
+#home{
+    scroll-behavior: smooth;
+} 
+
+nav{
+    font-size: 50px;
+    text-align: center;
+}
+
+
+
